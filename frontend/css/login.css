@@ -1,0 +1,29 @@
+#email,
+label[for="email"] {
+    font-size: 20px;
+    margin : 15px;
+}
+
+#email,
+#password {
+    width: 400px;
+    height: 40px;
+}
+#password,
+label[for="password"] {
+    font-size: 20px;
+}
+
+#login-button {
+    width: 60px;
+    height: 40px;
+    font-size: 20px;
+}
+#email,
+#password {
+    padding: 8px 12px;
+}
+
+.form-row {
+    margin-bottom: 20px;
+}

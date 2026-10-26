@@ -1,0 +1,38 @@
+#email,
+label[for="email"] {
+    font-size: 20px;
+    margin : 15px;
+}
+
+#name,
+label[for="name"] {
+    font-size: 20px;
+    margin : 15px;
+}
+
+#password,
+label[for="password"] {
+    font-size: 20px;
+}
+
+#email,
+#password,
+#name {
+    width: 400px;
+    height: 40px;
+}
+
+#register-button {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+#email,
+#password,
+#name {
+    padding: 8px 12px;
+}
+
+.form-row {
+    margin-bottom: 20px;
+}
