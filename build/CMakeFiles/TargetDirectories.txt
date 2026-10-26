@@ -1,3 +1,0 @@
-/media/anurag/Anurag/project/CampusVault/CampusVault/build/CMakeFiles/campusvault.dir
-/media/anurag/Anurag/project/CampusVault/CampusVault/build/CMakeFiles/edit_cache.dir
-/media/anurag/Anurag/project/CampusVault/CampusVault/build/CMakeFiles/rebuild_cache.dir
