@@ -11,4 +11,3 @@ CREATE TABLE IF NOT EXISTS resources (
     Ur VARCHAR(100) NOT NULL,
     Dat DATETIME NOT NULL,
     Descrip VARCHAR(100)
-);
